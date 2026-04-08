@@ -620,19 +620,6 @@
     "bannerAssetbundleName": "banner_news_gacha915"
   },
   {
-    "id": 5889,
-    "seq": 1,
-    "displayOrder": 84920,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「カラフルパスガチャ」の出現メンバー追加のご案内",
-    "path": "information\/index.html?id=info_gacha916",
-    "startAt": 1772391600000,
-    "endAt": 1775415600000
-  },
-  {
     "id": 5890,
     "seq": 1,
     "displayOrder": 28540,
@@ -781,20 +768,6 @@
     "bannerAssetbundleName": "banner_news_gacha922"
   },
   {
-    "id": 5938,
-    "seq": 1,
-    "displayOrder": 85300,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「Amid the Wavering Light」開催！",
-    "path": "information\/index.html?id=info_event199_held",
-    "startAt": 1773986400000,
-    "endAt": 1775563200000,
-    "bannerAssetbundleName": "banner_news_event199"
-  },
-  {
     "id": 5940,
     "seq": 1,
     "displayOrder": 85320,
@@ -831,19 +804,6 @@
     "startAt": 1774442700000,
     "endAt": 1776049200000,
     "bannerAssetbundleName": "banner_news_ecollab_2026_notice"
-  },
-  {
-    "id": 5958,
-    "seq": 1,
-    "displayOrder": 85520,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "3月30日11時30分ごろに追加したコンテンツのご案内",
-    "path": "information\/index.html?id=info_add_contents_20260330",
-    "startAt": 1774837800000,
-    "endAt": 1775415600000
   },
   {
     "id": 5959,
@@ -1129,33 +1089,6 @@
     "bannerAssetbundleName": "banner_news_gacha924"
   },
   {
-    "id": 5990,
-    "seq": 1,
-    "displayOrder": 85760,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「あいしていたのに」追加！",
-    "path": "information\/index.html?id=info_music_20260403",
-    "startAt": 1775196000000,
-    "endAt": 1775415600000,
-    "bannerAssetbundleName": "banner_news_5-5th-Aniv_music-cp"
-  },
-  {
-    "id": 5991,
-    "seq": 1,
-    "displayOrder": 85770,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[5.5周年記念]ブルームフェスティバルガチャ ドリームピック」の出現メンバーの範囲に関するお知らせとお詫びについて",
-    "path": "information\/index.html?id=info_gacha923_20260403",
-    "startAt": 1775205900000,
-    "endAt": 1775463000000
-  },
-  {
     "id": 5992,
     "seq": 1,
     "displayOrder": 85780,
@@ -1168,20 +1101,6 @@
     "startAt": 1775271600000,
     "endAt": 1778295600000,
     "bannerAssetbundleName": "banner_news_gacha928"
-  },
-  {
-    "id": 5993,
-    "seq": 1,
-    "displayOrder": 85790,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「フロイライン＝オジョウサマ」追加！",
-    "path": "information\/index.html?id=info_music_20260404",
-    "startAt": 1775282400000,
-    "endAt": 1775502000000,
-    "bannerAssetbundleName": "banner_news_5-5th-Aniv_music-cp"
   },
   {
     "id": 5994,
@@ -1222,6 +1141,20 @@
     "path": "information\/index.html?id=info_music_20260406",
     "startAt": 1775455200000,
     "endAt": 1775674800000
+  },
+  {
+    "id": 5997,
+    "seq": 1,
+    "displayOrder": 85840,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、イベント「Show 'em what's up！」開催について",
+    "path": "information\/index.html?id=info_event201_notice",
+    "startAt": 1775628000000,
+    "endAt": 1775714400000,
+    "bannerAssetbundleName": "banner_news_event201"
   },
   {
     "id": 6011,
