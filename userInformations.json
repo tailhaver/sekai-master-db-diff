@@ -1105,20 +1105,6 @@
     "bannerAssetbundleName": "banner_news_gacha928"
   },
   {
-    "id": 5994,
-    "seq": 1,
-    "displayOrder": 85800,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「Nyanyanyanyanyanyanya!」追加！",
-    "path": "information\/index.html?id=info_music_20260405",
-    "startAt": 1775368800000,
-    "endAt": 1775588400000,
-    "bannerAssetbundleName": "banner_news_5-5th-Aniv_music-cp"
-  },
-  {
     "id": 5995,
     "seq": 1,
     "displayOrder": 85810,
@@ -1289,6 +1275,20 @@
     "path": "information\/index.html?id=info_x-post-present_20260325",
     "startAt": 1775725200000,
     "endAt": 1776884400000
+  },
+  {
+    "id": 6008,
+    "seq": 1,
+    "displayOrder": 85930,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「[花里みのり]HAPPY BIRTHDAYガチャ」「[花里みのり]HAPPY BIRTHDAYメモリーズガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha931_held",
+    "startAt": 1775746800000,
+    "endAt": 1778911200000,
+    "bannerAssetbundleName": "banner_news_gacha931"
   },
   {
     "id": 6011,
