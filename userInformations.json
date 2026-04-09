@@ -1302,5 +1302,17 @@
     "path": "information\/index.html?id=info_gacha923_20260403_add",
     "startAt": 1775463000000,
     "endAt": 1777863600000
+  },
+  {
+    "id": 6026,
+    "seq": 1,
+    "displayOrder": 85915,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v6.4.1」アップデートのご案内",
+    "path": "information\/index.html?id=info_update6-4-1_update",
+    "startAt": 1775721600000
   }
 ]
