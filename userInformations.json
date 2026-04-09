@@ -815,7 +815,8 @@
     "platform": "all",
     "title": "アプリバージョン「v6.4.0」までに確認しているマイセカイの不具合について",
     "path": "information\/index.html?id=bug_summary_mysekai_to_v6-4-0",
-    "startAt": 1774837800000
+    "startAt": 1774837800000,
+    "endAt": 1775701800000
   },
   {
     "id": 5961,
@@ -1072,7 +1073,8 @@
     "platform": "all",
     "title": " 【4月2日17時00分追記】アプリバージョン「v6.4.0」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v6-4-0_add2",
-    "startAt": 1775116800000
+    "startAt": 1775116800000,
+    "endAt": 1775701800000
   },
   {
     "id": 5989,
@@ -1155,6 +1157,138 @@
     "startAt": 1775628000000,
     "endAt": 1775714400000,
     "bannerAssetbundleName": "banner_news_event201"
+  },
+  {
+    "id": 5998,
+    "seq": 1,
+    "displayOrder": 85850,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "4月9日11時30分ごろに追加したコンテンツのご案内",
+    "path": "information\/index.html?id=info_add_contents_20260409",
+    "startAt": 1775701800000,
+    "endAt": 1776279600000
+  },
+  {
+    "id": 5999,
+    "seq": 1,
+    "displayOrder": 28680,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月9日11時30分追記】アプリバージョン「v6.4.0」までに確認しているマイセカイの不具合について",
+    "path": "information\/index.html?id=bug_summary_mysekai_to_v6-4-0_add1",
+    "startAt": 1775701800000
+  },
+  {
+    "id": 6000,
+    "seq": 1,
+    "displayOrder": 28670,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月9日11時30分追記】アプリバージョン「v6.4.0」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v6-4-0_add3",
+    "startAt": 1775701800000
+  },
+  {
+    "id": 6001,
+    "seq": 1,
+    "displayOrder": 85860,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "過去に登場した★2～★4メンバーのガチャ・交換所への追加のご案内",
+    "path": "information\/index.html?id=info_member-update_20260409",
+    "startAt": 1775703600000,
+    "endAt": 1778209200000
+  },
+  {
+    "id": 6002,
+    "seq": 1,
+    "displayOrder": 85880,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「Proof the REDガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha930_held",
+    "startAt": 1775703600000,
+    "endAt": 1779073200000,
+    "bannerAssetbundleName": "banner_news_gacha930"
+  },
+  {
+    "id": 6003,
+    "seq": 1,
+    "displayOrder": 85870,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "4月10日20時よりWEBラジオ番組「セカラジ#62」を配信！",
+    "path": "information\/index.html?id=info_webradio_sekarazi_62_20260410",
+    "startAt": 1775703600000,
+    "endAt": 1776366000000
+  },
+  {
+    "id": 6004,
+    "seq": 1,
+    "displayOrder": 85890,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「[花里みのり]HAPPY BIRTHDAYガチャ」「[花里みのり]HAPPY BIRTHDAYメモリーズガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha931_notice",
+    "startAt": 1775714400000,
+    "endAt": 1775746800000,
+    "bannerAssetbundleName": "banner_news_gacha931"
+  },
+  {
+    "id": 6005,
+    "seq": 1,
+    "displayOrder": 85900,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「HAPPY BIRTHDAY 花里 みのり 2026」開催について",
+    "path": "information\/index.html?id=info_birthdayparty_minori_2026_notice",
+    "startAt": 1775714400000,
+    "endAt": 1775833200000,
+    "bannerAssetbundleName": "banner_news_birthday_minori_2026"
+  },
+  {
+    "id": 6006,
+    "seq": 1,
+    "displayOrder": 85910,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "イベント「Show 'em what's up！」開催！",
+    "path": "information\/index.html?id=info_event201_held",
+    "startAt": 1775714400000,
+    "endAt": 1777374000000,
+    "bannerAssetbundleName": "banner_news_event201"
+  },
+  {
+    "id": 6007,
+    "seq": 1,
+    "displayOrder": 85920,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "3月25日配信「プロセカ放送局 5.5周年スペシャル」のチャレンジ達成報酬プレゼント！",
+    "path": "information\/index.html?id=info_x-post-present_20260325",
+    "startAt": 1775725200000,
+    "endAt": 1776884400000
   },
   {
     "id": 6011,
