@@ -1291,6 +1291,20 @@
     "bannerAssetbundleName": "banner_news_gacha931"
   },
   {
+    "id": 6009,
+    "seq": 1,
+    "displayOrder": 85950,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「ワールドリンクイベント Part1 サポートガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha933_notice",
+    "startAt": 1775790000000,
+    "endAt": 1775876400000,
+    "bannerAssetbundleName": "banner_news_gacha933"
+  },
+  {
     "id": 6011,
     "seq": 1,
     "displayOrder": 85830,
@@ -1313,6 +1327,19 @@
     "platform": "all",
     "title": "「v6.4.1」アップデートのご案内",
     "path": "information\/index.html?id=info_update6-4-1_update",
-    "startAt": 1775721600000
+    "startAt": 1775721600000,
+    "endAt": 1775785800000
+  },
+  {
+    "id": 6027,
+    "seq": 1,
+    "displayOrder": 85940,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月10日10時50分追記】「v6.4.1」アップデートのご案内",
+    "path": "information\/index.html?id=info_update6-4-1_update_add1",
+    "startAt": 1775785800000
   }
 ]
