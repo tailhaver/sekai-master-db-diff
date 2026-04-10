@@ -606,20 +606,6 @@
     "startAt": 1771902000000
   },
   {
-    "id": 5881,
-    "seq": 1,
-    "displayOrder": 84840,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「Lunatic doll in the boxガチャ」開催！",
-    "path": "information\/index.html?id=info_gacha915_held",
-    "startAt": 1772247600000,
-    "endAt": 1775703600000,
-    "bannerAssetbundleName": "banner_news_gacha915"
-  },
-  {
     "id": 5890,
     "seq": 1,
     "displayOrder": 28540,
@@ -644,19 +630,6 @@
     "startAt": 1772533800000,
     "endAt": 1781362800000,
     "bannerAssetbundleName": "banner_news_sekaisymphony2026"
-  },
-  {
-    "id": 5904,
-    "seq": 1,
-    "displayOrder": 85030,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "過去に登場した★2～★4メンバーのガチャ・交換所への追加のご案内",
-    "path": "information\/index.html?id=info_member-update_20260310",
-    "startAt": 1773111600000,
-    "endAt": 1775703600000
   },
   {
     "id": 5905,
@@ -806,19 +779,6 @@
     "bannerAssetbundleName": "banner_news_ecollab_2026_notice"
   },
   {
-    "id": 5959,
-    "seq": 1,
-    "displayOrder": 28640,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "アプリバージョン「v6.4.0」までに確認しているマイセカイの不具合について",
-    "path": "information\/index.html?id=bug_summary_mysekai_to_v6-4-0",
-    "startAt": 1774837800000,
-    "endAt": 1775701800000
-  },
-  {
     "id": 5961,
     "seq": 1,
     "displayOrder": 85515,
@@ -846,34 +806,6 @@
     "bannerAssetbundleName": "banner_news_gacha923"
   },
   {
-    "id": 5963,
-    "seq": 1,
-    "displayOrder": 85580,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[5.5周年記念]プレミアムプレゼントガチャ セレクトキャラクター」開催！",
-    "path": "information\/index.html?id=info_gacha925_held",
-    "startAt": 1774839600000,
-    "endAt": 1775703600000,
-    "bannerAssetbundleName": "banner_news_gacha925"
-  },
-  {
-    "id": 5964,
-    "seq": 1,
-    "displayOrder": 85590,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[5.5周年記念]1\/3セレクトリストガチャ LIMITED EDITION」開催！",
-    "path": "information\/index.html?id=info_gacha926_held",
-    "startAt": 1774839600000,
-    "endAt": 1775703600000,
-    "bannerAssetbundleName": "banner_news_gacha926"
-  },
-  {
     "id": 5966,
     "seq": 1,
     "displayOrder": 85570,
@@ -888,20 +820,6 @@
     "bannerAssetbundleName": "banner_news_cp_5-5th_annive_formyfave"
   },
   {
-    "id": 5967,
-    "seq": 1,
-    "displayOrder": 85540,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「5.5周年記念クリスタルショップ」開催！",
-    "path": "information\/index.html?id=info_shop_5-5th_aniv_crystalshop_held",
-    "startAt": 1774839600000,
-    "endAt": 1775703600000,
-    "bannerAssetbundleName": "banner_news_5-5th_annive_shop"
-  },
-  {
     "id": 5968,
     "seq": 1,
     "displayOrder": 85550,
@@ -914,20 +832,6 @@
     "startAt": 1774839600000,
     "endAt": 1777518000000,
     "bannerAssetbundleName": "banner_news_logincp_5-5th_anniversary"
-  },
-  {
-    "id": 5969,
-    "seq": 1,
-    "displayOrder": 85560,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「5.5周年記念スタンプミッション」開催！",
-    "path": "information\/index.html?id=info_5-5th_annive_stampmission_held",
-    "startAt": 1774839600000,
-    "endAt": 1775703600000,
-    "bannerAssetbundleName": "banner_news_5-5thAnniversary_stampMission"
   },
   {
     "id": 5970,
@@ -1064,33 +968,6 @@
     "bannerAssetbundleName": "banner_news_mysekai_bestselection19"
   },
   {
-    "id": 5988,
-    "seq": 1,
-    "displayOrder": 28660,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": " 【4月2日17時00分追記】アプリバージョン「v6.4.0」までに確認している不具合について",
-    "path": "information\/index.html?id=bug_summary_to_v6-4-0_add2",
-    "startAt": 1775116800000,
-    "endAt": 1775701800000
-  },
-  {
-    "id": 5989,
-    "seq": 1,
-    "displayOrder": 85750,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": " 【4月3日13時00分追記】「[5.5周年記念]セレクトキャラクターガチャ」開催！",
-    "path": "information\/index.html?id=info_gacha924_held_add",
-    "startAt": 1775188800000,
-    "endAt": 1775703600000,
-    "bannerAssetbundleName": "banner_news_gacha924"
-  },
-  {
     "id": 5992,
     "seq": 1,
     "displayOrder": 85780,
@@ -1118,33 +995,6 @@
     "endAt": 1777834800000
   },
   {
-    "id": 5996,
-    "seq": 1,
-    "displayOrder": 85820,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「T氏の話を信じるな」追加！",
-    "path": "information\/index.html?id=info_music_20260406",
-    "startAt": 1775455200000,
-    "endAt": 1775674800000
-  },
-  {
-    "id": 5997,
-    "seq": 1,
-    "displayOrder": 85840,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、イベント「Show 'em what's up！」開催について",
-    "path": "information\/index.html?id=info_event201_notice",
-    "startAt": 1775628000000,
-    "endAt": 1775714400000,
-    "bannerAssetbundleName": "banner_news_event201"
-  },
-  {
     "id": 5998,
     "seq": 1,
     "displayOrder": 85850,
@@ -1167,7 +1017,8 @@
     "platform": "all",
     "title": "【4月9日11時30分追記】アプリバージョン「v6.4.0」までに確認しているマイセカイの不具合について",
     "path": "information\/index.html?id=bug_summary_mysekai_to_v6-4-0_add1",
-    "startAt": 1775701800000
+    "startAt": 1775701800000,
+    "endAt": 1775813400000
   },
   {
     "id": 6000,
@@ -1340,6 +1191,31 @@
     "platform": "all",
     "title": "【4月10日10時50分追記】「v6.4.1」アップデートのご案内",
     "path": "information\/index.html?id=info_update6-4-1_update_add1",
-    "startAt": 1775785800000
+    "startAt": 1775785800000,
+    "endAt": 1775813400000
+  },
+  {
+    "id": 6028,
+    "seq": 1,
+    "displayOrder": 85960,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月10日18時30分追記】「v6.4.1」アップデートのご案内",
+    "path": "information\/index.html?id=info_update6-4-1_update_add2",
+    "startAt": 1775813400000
+  },
+  {
+    "id": 6029,
+    "seq": 1,
+    "displayOrder": 28690,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "アプリバージョン「v6.4.1」までに確認しているマイセカイの不具合について",
+    "path": "information\/index.html?id=bug_summary_mysekai_to_v6-4-1",
+    "startAt": 1775813400000
   }
 ]
