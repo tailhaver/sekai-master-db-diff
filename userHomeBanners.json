@@ -53,5 +53,16 @@
     "transitionDestinationId": 931,
     "startAt": 1775746800000,
     "endAt": 1776351600000
+  },
+  {
+    "homeBannerId": 1550,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[花里みのり]HAPPY BIRTHDAYイベント",
+    "assetbundleName": "banner_birthday_minori_2026",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 6010,
+    "startAt": 1775833200000,
+    "endAt": 1776351600000
   }
 ]
