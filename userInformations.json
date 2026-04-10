@@ -1156,6 +1156,20 @@
     "bannerAssetbundleName": "banner_news_gacha933"
   },
   {
+    "id": 6010,
+    "seq": 1,
+    "displayOrder": 85970,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「HAPPY BIRTHDAY 花里 みのり 2026」開催！",
+    "path": "information\/index.html?id=info_birthdayparty_minori_2026_held",
+    "startAt": 1775833200000,
+    "endAt": 1778353200000,
+    "bannerAssetbundleName": "banner_news_birthday_minori_2026"
+  },
+  {
     "id": 6011,
     "seq": 1,
     "displayOrder": 85830,
@@ -1167,6 +1181,48 @@
     "path": "information\/index.html?id=info_gacha923_20260403_add",
     "startAt": 1775463000000,
     "endAt": 1777863600000
+  },
+  {
+    "id": 6012,
+    "seq": 1,
+    "displayOrder": 85980,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「[復刻]とってもおばけなバケーション！ガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha935_notice",
+    "startAt": 1775876400000,
+    "endAt": 1775962800000,
+    "bannerAssetbundleName": "banner_news_gacha935"
+  },
+  {
+    "id": 6013,
+    "seq": 1,
+    "displayOrder": 85990,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「[復刻]Living With Musicガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha934_notice",
+    "startAt": 1775876400000,
+    "endAt": 1775962800000,
+    "bannerAssetbundleName": "banner_news_gacha934"
+  },
+  {
+    "id": 6014,
+    "seq": 1,
+    "displayOrder": 86000,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「ワールドリンクイベント Part1 サポートガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha933_held",
+    "startAt": 1775876400000,
+    "endAt": 1780110000000,
+    "bannerAssetbundleName": "banner_news_gacha933"
   },
   {
     "id": 6026,
